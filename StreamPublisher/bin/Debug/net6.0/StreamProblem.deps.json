@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StreamProblem/1.0.0": {
+        "dependencies": {
+          "RabbitMQ.Stream.Client": "1.0.0-rc.4"
+        },
+        "runtime": {
+          "StreamProblem.dll": {}
+        }
+      },
+      "RabbitMQ.Stream.Client/1.0.0-rc.4": {
+        "dependencies": {
+          "System.IO.Pipelines": "6.0.2"
+        },
+        "runtime": {
+          "lib/net6.0/RabbitMQ.Stream.Client.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "System.IO.Pipelines/6.0.2": {
+        "runtime": {
+          "lib/net6.0/System.IO.Pipelines.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.222.6406"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StreamProblem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RabbitMQ.Stream.Client/1.0.0-rc.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-faeCdtpkwyMcNKlxBUKHbCVjHUFxcUkEJd42OFHlJQs33jlqtN1qOFbyJSRoLcbxqM4kWqWEv9Ez7hBKHMXDzw==",
+      "path": "rabbitmq.stream.client/1.0.0-rc.4",
+      "hashPath": "rabbitmq.stream.client.1.0.0-rc.4.nupkg.sha512"
+    },
+    "System.IO.Pipelines/6.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cb5OfQjnz+zjpJJei+f3QYK7+wWZrDdNHf3DykO6QCacpNZ80tuNgq1DC2kqlrjfEu+cMUTvulxPIrCMbBkjqg==",
+      "path": "system.io.pipelines/6.0.2",
+      "hashPath": "system.io.pipelines.6.0.2.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nEan8HWZYm45/s5n9BRSDPxFDQoZKy8RImANXOuHZ+hEp8hywYPXNQcpi9DvlSg9QqQKRhwKspD9l7cT3uNarA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PatrycjaMariaSuprun\\Projects\\StreamProblem\\SteamConsumer\\SteamConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PatrycjaMariaSuprun\\.nuget\\packages\\rabbitmq.stream.client\\1.0.0-rc.4\\rabbitmq.stream.client.1.0.0-rc.4.nupkg.sha512",
+    "C:\\Users\\PatrycjaMariaSuprun\\.nuget\\packages\\system.io.pipelines\\6.0.2\\system.io.pipelines.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
